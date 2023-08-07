@@ -1,0 +1,784 @@
+<!DOCTYPE html> 
+ <html> 
+     <link rel="stylesheet" type="text/css" href="csgkvs4.css"> 
+ <head> 
+   <meta charset="utf-8"> 
+   <meta name="viewport" content="width=device-width"> 
+  <title>Hi🌃Visite in pariss✨</title> 
+ <style>
+        body {
+            color: #333;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            background-image: url("https://images.pexels.com/photos/2272939/pexels-photo-2272939.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+            background-size: cover;
+            background-position: center;
+        }
+.custom-button {
+    background-color: #282c34;
+    color: #ffffff;
+    border: 2px solid #6c5ce7;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* Effet de survol */
+.custom-button:hover {
+    background-color: #6c5ce7;
+}
+
+/* Effet de pression */
+.custom-button:active {
+    background-color: #4834d4;
+    border-color: #4834d4;
+}
+
+/* Couleur violette et bleue */
+.custom-button.violet-blue {
+    background-color: linear-gradient(135deg, #6c5ce7, #0984e3);
+}
+
+
+.futuristic-button {
+            padding: 15px 20px;
+            border: none;
+            border-radius: 50px;
+            background-color: #007BFF;
+            color: #fff;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+            display: inline-block;
+        }
+
+        .futuristic-button:hover {
+            background-color: #0056b3;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header-logo {
+            max-width: 150px;
+        }
+
+        .header img {
+            width: 100%;
+            height: auto;
+        }
+
+
+        .sidebar {
+            float: left;
+            width: 25%;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .sidebar h2 {
+            margin-top: 0;
+            font-size: 22px;
+            color: #333;
+            text-align: center;
+        }
+
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .sidebar li {
+            margin-bottom: 5px;
+        }
+
+        .sidebar a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        .content {
+            float: left;
+            width: 75%;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+
+        .content h3 {
+            margin-top: 0;
+            font-size: 24px;
+            color: #333;
+        }
+
+        .article {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .article h3 {
+            font-size: 20px;
+            color: #555;
+        }
+
+        .article img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .article p {
+            color: #777;
+            font-size: 14px;
+        }
+
+        .article-link {
+            display: block;
+            margin-top: 10px;
+            color: #007BFF;
+            font-size: 14px;
+        }
+
+        .article-link:hover {
+            text-decoration: underline;
+        }
+
+        @media screen and (max-width: 768px) {
+            .sidebar, .content {
+                float: none;
+                width: 100%;
+            }
+        }
+    </style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6LLKF2T6R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6LLKF2T6R');
+</script> 
+</head> 
+ <body> 
+ <div class="container"> 
+ <div class="header"> 
+ <div class="header-logo">  
+ <img src="https://www.bing.com/th?id=AyAVfSdm%2fIGkrqQ480x360&w=374&h=140&c=8&rs=1&qlt=20&dpr=1.5&pid=3.1&rm=2" alt="Frandroid logo"> 
+ </div> 
+ </div> 
+ <div class="main"> 
+ <div class="sidebar"> 
+ <h2>Les meilleurs endroits à visiter à Paris <em>gratuitement🐀</em></h2> 
+ <ul> 
+          <li><a href="#Arènes">Les Arènes de Lutèce</a></li> 
+ ↩ 
+          <li><a href="#basilique">La basilique du sacré cœur de Montmartre</a></li> 
+ ↩ 
+          <li><a href="#Axe">Axe majeur à Cergy</a></li> 
+ ↩ 
+          <li><a href="#PetiteCeinture14">Petite Ceinture du 14ème</a></li> 
+ ↩ 
+          <li><a href="#PetiteCeinture13">La petite Ceinture du 13ème et du 20ème</a></li> 
+ ↩ 
+          <li><a href="#StatueLiberté">Statue de la liberté à Paris</a></li> 
+ ↩ 
+          <li><a href="#Madeleine">La Madeleine</a></li> 
+ ↩ 
+          <li><a href="#ArcTriomphe">L'Arc de Triomphe</a></li> 
+ ↩ 
+          <li><a href="#Basilique">La basilique Saint Denis</a></li> 
+ ↩ 
+          <li><a href="#CentreCulturel">Centre culturel Canadien de Paris</a></li> 
+ ↩ 
+          <li><a href="#CimetièrePèreLaChaise">Le cimetière du Père la Chaise</a></li> 
+ ↩ 
+          <li><a href="#JardinLuxembourg">Le jardin du Luxembourg</a></li> 
+ ↩ 
+          <li><a href="#GrandeMosquée">La grande mosquée de Paris</a></li> 
+ ↩ 
+          <li><a href="#ChâteauVersailles">Château de Versailles 🏰</a></li> 
+ ↩ 
+          <li><a href="#InstitutMondeArabe">Institut du monde Arabe</a></li> 
+ ↩ 
+          <li><a href="#Panthéon">Panthéon</a></li> 
+ ↩ 
+          <li><a href="#MuséeLibération">Musée de la Libération à Paris</a></li> 
+ ↩ 
+          <li><a href="#NotreDame">Notre Dame...</a></li> 
+ ↩ 
+          <li><a href="#MonnaieParis">Monnaie de Paris</a></li> 
+ ↩ 
+          <li><a href="#Provins">Provins</a></li> 
+ ↩ 
+          <li><a href="#ParcSaintCloud">Le parc de Saint Cloud</a></li> 
+ ↩ 
+          <li><a href="#MuséeAlbertKahn">Musée départemental de Albert - Kahn</a></li> 
+ ↩ 
+          <li><a href="#MuséeInvalides">Le Musée des invalides</a></li> 
+ ↩ 
+          <li><a href="#SaintChapelle">La Saint chapelle</a></li> 
+ ↩ 
+          <li><a href="#MontValérien">le Mont valérien</a></li> 
+ ↩</ul> 
+ </div> 
+ <div class="content"> 
+ <h3>Les meilleurs endroits à visiter à Paris🥖</h3> 
+ <div class="article" id="Arènes"> 
+ <h3><em>Les Arènes de Lutèce</em></h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/P1090451_Paris_V_arenes_de_Lut%C3%A8ce_rwk.JPG/1280px-P1090451_Paris_V_arenes_de_Lut%C3%A8ce_rwk.JPG" alt="img photo" class="article-image" width="310" height="230">  
+ <br> 
+ <a href="https://fr.wikipedia.org/wiki/Ar%C3%A8nes_de_Lut%C3%A8ce" class="custom-button">Wikipédia du monument 🏛️</a> 
+ <a href="https://goo.gl/maps/TVCFVwtQo3kNFNEi8" class="custom-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="basilique"> 
+ <h3>La basilique du sacré cœur de Montmartre</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Sacr%C3%A9_Coeur_Fa%C3%A7ade_1.jpg" alt="La basilique du sacré cœur de Montmartre" class="article-image" width="310" height="230"> 
+ <img src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/fl19873274675-image-kycjsys9.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=452a26480cfc622fbcb207a82bebb123" alt="sacré cœur Montmartre" class="article-image"  
+ width="310" height="230"> 
+ <br> 
+ <a href="https://fr.wikipedia.org/wiki/Montmartre" class="futuristic-button">Site officiel</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=La+basilique+du+sacré+cœur+de+Montmartre" class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="Axe"> 
+ <h3>Axe-Majeur Cergy-Pontoise</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Axe_majeur_de_Cergy_P1090788.JPG" alt="Axe majeur Cergy" class="article-image" width="310" height="230"> 
+ <br> 
+ <br> 
+ <br> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Axe_Majeur_-_Cergy_%28FR95%29_-_2020-09-05_-_1.jpg" alt="Axe Majeur Cergy" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://www.axe-majeur.info/" class="custom-button">Site officiel</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Axe+majeur+Cergy" class="custom-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="PetiteCeinture14"> 
+ <h3>Petite Ceinture du 14ème Arrondissement de Paris</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/P1250083_Paris_XIV_rue_Didot_Petite_ceinture_rwk.jpg" alt="Petite Ceinture du 14ème" class="article-image" width="310" height="230" >
+ <br> 
+ <a href="https://www.paris.fr/lieux/petite-ceinture-du-14e-pc-14-19530" class="futuristic-button">Site officiel</a> 
+ <a href="https://goo.gl/maps/CDtQrQT6FqcnQMCx6" class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="PetiteCeinture13"> 
+ <h3>Petite Ceinture du 13ème et du 20ème mais également des autres arrondissement de Paris </h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Paris_13e_-_Petite_Ceinture-pont_de_l%27avenue_de_Choisy_vers_l%27ouest.JPG" alt="Petite Ceinture du 14ème" class="article-image" width="310" height="230"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Paris_75020_Passerelle_de_la_Mare_Petite_Ceinture_20160312.jpg" alt="Petite Ceinture du 20ème" class="article-image" width="310" height="230"> 
+
+ <br> 
+ <br> 
+ <a href="https://www.paris.fr/lieux/petite-ceinture-du-20e-pc-20-19205" class="custom-button">Site officiel</a> 
+ <a href="https://www.paris.fr/lieux/petite-ceinture-du-13e-pc-13-18089" class="custom-button">Site officiel</a> 
+ <br> 
+ <p>Petite ancienne ligne ferroviaire qui desservait la "Petite couronne" de Paris (La ville) Aujourd'hui une grosse partie est soit en parc soit abandonné.</p>
+<a href="https://goo.gl/maps/fK6NrfLp4bnvMW5n6" class="futuristic-button">Ligne de la ceinture du 14 ème arrondissement de Paris ▶️Pour s'y rendre</a> 
+ 
+ <p><em>Il y a aussi une partie qui est vers le 20ème et le 13ème (Et plus petite Ceinture du 13ème et celle du 20ème)Mais principalement elle s'étend à travers la plupart des Arrondissements de Paris.</em></p>
+ <a href="https://petiteceinture.org/acceder-a-la-petite-ceinture/" class="futuristic-button">Toute les informations sur la petite ceinture🚆</a> 
+ </p> 
+ </div>
+ <div class="article" id="StatueLiberté"> 
+ <h3>Statue de la liberté à Paris🗽</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Paris_15e_-_statue_de_la_Libert%C3%A9_1.JPG" alt="Statue de la liberté à Paris" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://vivreparis.fr/paris-ou-sont-les-6-statues-de-la-liberte" class="futuristic-button">Statut de la liberté🗽
+Sur l'île des cygnes à Paris.</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Statue+de+la+Libert%C3%A9,+Pont+de+Grenelle,+75015+Paris" class="futuristic-button">🗽Prendre son train vers la liberté.🗽</a> 
+ </div> 
+ <div class="article" id="Madeleine"> 
+ <h3>La Madeleine</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Madeleine_Paris.jpg" alt="la Madeleine à Paris" class="article-image" width="410" height="250"> 
+ <br> 
+ <a href="https://lamadeleineparis.fr/" class="custom-button">La Madeleine✨</a> 
+ <a href="https://www.google.com/maps/dir//%C3%89glise+de+la+Madeleine,+Pl.+de+la+Madeleine,+75008+Paris/@48.8700435,2.3245502,15z/data=!4m6!4m5!1m0!1m2!1m1!1s0x47e66e32f5011cef:0x5ff753fc9448c2b6!3e0" class="custom-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="ArcTriomphe"> 
+ <h3>L'arc de Triomphe</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg" alt="l'Arc de Triomphe" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://www.paris-arc-de-triomphe.fr/" class="futuristic-button">🗿L'arc de Triomphe je n'ais pas a le présenter je pense 🥸{ Site officiel }</a> 
+ <a href="https://www.google.com/maps/dir//Pl.+Charles+de+Gaulle,+75008+Paris"class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="Basilique"> 
+ <h3>Basilique de Saint-Denis</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Basilique_St_Denis_fa%C3%A7ade_ouest_St_Denis_Seine_St_Denis_20.jpg" alt="la basilique de Saint-Denis" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://www.saint-denis-basilique.fr/" class="custom-button">Site de la Basilique de Saint-Denis</a> 
+ <a href="https://www.google.com/maps/dir//basilique+de+Saint-Denis"class="custom-button">S'y rendre</a> 
+ </div> 
+  
+  
+ <div class="article" id="CentreCulturel"> 
+ <h3>Centre culturel Canadien de Paris</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Ambassade_du_Canada_en_France%2C_130_rue_du_Faubourg_Saint-Honor%C3%A9%2C_Paris_8e.jpg" alt="Centre culturel canadien de Paris" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://canada-culture.org/" class="futuristic-button">Site du centre 🇨🇦 culturel Qui est à paris.</a> 
+ <a href="https://www.google.com/maps/dir//130+Rue+du+Faubourg+Saint-Honor%C3%A9,+75008+Paris"class="futuristic-button">Y'allez</a> 
+ </div> 
+ <div class="article" id="CimetièrePèreLaChaise"> 
+ <h3>Cimetière du Père-Lachaise à Paris 😅💀</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Entr%C3%A9e_principale_Cimeti%C3%A8re_P%C3%A8re_Lachaise_Paris_9.jpg" 
+  alt="cimetière du Père-Lachaise à Paris" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://pere-lachaise.com/" class="custom-button">😅euu belle ambiance</a> 
+ <a href="https://www.google.com/maps/dir//16+Rue+du+Repos,+75020+Paris"class="custom-button">S'y rendre😅</a> 
+<p>cimetière où plusieurs grande personnalité y reposent.</p>
+ </div> 
+  
+ <div class="article" id="JardinLuxembourg"> 
+ <h3>Le jardin du Luxembourg </h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Jardin_du_Luxembourg_en_%C3%A9t%C3%A9.jpg" 
+  alt="Jardin du Luxembourg" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://jardin.senat.fr/" class="futuristic-button">🌳Site🌳</a> 
+ <a href="https://www.google.com/maps/dir//Le+Jardin+du+Luxembourg,+75006+Paris/@48.8462217,2.3371605,16z/data=!4m6!4m5!1m0!1m2!1m1!1s0x47e671db36de687b:0x791dd61b089f98b!3e0"class="futuristic-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="GrandeMosquée"> 
+ <h3>La grande mosquée de Paris</h3> 
+ <img src="Mosquée-de-Paris.jpg" 
+  alt="Mosquée de Paris" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://www.grandemosqueedeparis.fr/" class="custom-button">Site de La grande Mosquée de Paris</a> 
+ <a href="https://www.google.com/maps/dir//La+Grande+mosquée+de+Paris"class="custom-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="ChâteauVersailles"> 
+ <h3>le célèbre château de Versailles</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Versailles-Chateau-Jardins02.jpg" 
+  alt="Château de Versailles" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://www.chateauversailles.fr/" class="futuristic-button">Site Château de Versailles🏰</a> 
+ <a href="https://www.google.com/maps/dir//Ch%C3%A2teau+de+Versailles,+Place+d'Armes,+78000+Versailles/@48.8047419,2.1206193,14.75z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47e67d94d7b14c75:0x538fcc15f59ce8f!2m2!1d2.1203554!2d48.8048649!3e0" 
+ class="futuristic-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="InstitutMondeArabe"> 
+ <h3>Institut du monde Arabe</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Institut_du_Monde_Arabe.jpg" 
+  alt="institut du Monde arabe" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://www.imarabe.org/fr/informations-pratiques/tarifs" class="custom-button">Site officiel</a> 
+ <a href="https://goo.gl/maps/dAPpAGo5imr" 
+ class="custom-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="Panthéon"> 
+ <h3>Le Panthéon </h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Panth%C3%A9on%2C_Paris_25_March_2012.jpg" 
+  alt="Le panthéon" class="article-image" width="310" height="230"> 
+ <br> 
+ <a href="https://www.paris-pantheon.fr/"  
+ class="futuristic-button">Le🏛️Pantheon🏛️</a> 
+ <a href="https://www.google.com/maps/dir//Panth%C3%A9on,+Pl.+du+Panth%C3%A9on,+75005+Paris,+France/@48.8462218,2.3464138,17z/data=!4m6!4m5!1m0!1m2!1m1!1s0x47e671e7d297c973:0xe5eb004f23a758!3e0" 
+ class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="MuséeLibération"> 
+ <h3>Musée de la Libération à Paris + Bunker du  POSTE DE COMMANDEMENT DU COLONEL ROL-TANGUY</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/L%27entr%C3%A9e_du_mus%C3%A9e_Jean_Moulin%2C_Paris.jpg" alt="Musée de la Libération à Paris" class="article-image" 
+ width="310" height="230"> 
+ <tr> 
+  
+ <a href="https://www.museeliberation-leclerc-moulin.paris.fr/venir-au-musee/visite-du-pc-du-colonel-rol-tanguy" class="custom-button">Le Bunker👀</a> 
+ </a> 
+  
+ <a href="https://www.museeliberation-leclerc-moulin.paris.fr/" class="futuristic-button">Musée de La libération à Paris</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Musée+de+la+Libération+à+Paris" class="custom-button">S'y rendre🏃‍♀️</a> 
+ </div> 
+ <div class="article" id="NotreDame"> 
+ <h3>Notre Dame de Paris </h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Ile_de_la_Cite_from_Pont_de_la_Tournelle.jpg" alt="Notre Dame..." class="article-image" 
+  width="310" height="230"> 
+ <a href="https://www.notredamedeparis.fr/"  
+ class="futuristic-button">Le fameux Monument 🏛️</a> 
+<p>Parcontre il est sensé être fermé jusqu'en 2024, Pour cause de rénovation.</p>
+<tr>
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Notre+Dame" class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="MonnaieParis"> 
+ <h3>Monnaie de Paris</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Monnaie_de_Paris.jpg" alt="Monnaie de Paris" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.monnaiedeparis.fr/fr" class="custom-button">La Monnaie de Paris🏦</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Monnaie+de+Paris" class="custom-button">Y'allez💲</a> 
+ </div> 
+ 
+  
+ <div class="article" id="Provins"> 
+ <h3>Provins</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/0_Provins_-_Remparts_et_tours_des_Grandes_Planches.jpg" alt="Provins" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://provins.net/" class="futuristic-button">Site de la ville médiévale🔥</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Provins" class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="ParcSaintCloud"> 
+ <h3>Le parc de Saint Cloud</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Parc_saint-cloud.jpg" alt="Le parc de Saint Cloud" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.domaine-saint-cloud.fr/" class="custom-button">Site de l'un des plus beaux parc des hauts de Seine.</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Le+parc+de+Saint+Cloud" class="custom-button">🌳S'y rendre</a> 
+ </div> 
+ <div class="article" id="MuséeAlbertKahn"> 
+ <h3>Musée départemental de Albert - Kahn</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Mus%C3%A9e_d%C3%A9partemental_Albert-Kahn_pont_violet.JPG" alt="Musée départemental de Albert - Kahn" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://albert-kahn.hauts-de-seine.fr/en/" class="futuristic-button">🌳Site✨officiel</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Musée+départemental+de+Albert+-+Kahn" class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="MuséeInvalides"> 
+ <h3>Le Musée des invalides + la tombe de Napoléon 1er</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/H%C3%B4tel_des_Invalides%2C_North_View%2C_Paris_7e_140402_1.jpg" alt="Le Musée des invalides" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.musee-armee.fr/accueil.html" class="custom-button">Les Invalides🌟Le site Internet</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Le+Musée+des+invalides" class="custom-button">S'y rendre🗿</a> 
+ </div> 
+ <div class="article" id="SaintChapelle"> 
+ <h3>La Saint chapelle</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Paris_Sainte_Chapelle_East_View_02.JPG" alt="La Saint chapelle" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.sainte-chapelle.fr/" class="futuristic-button">Site officiel</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=La+Saint+chapelle" class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <tr> 
+ <div class="article" id="MontValérien"> 
+ <h3>🔥Le Mont Valérien🔥🗽</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/2011-10-15_Memorial_de_la_forteresse_du_Mont-Valerien_de_Suresnes.jpg" alt="Mont valérien"  class="article-image" 
+ width="310" height="230"> 
+ <video width="640" height="480" controls> 
+     <source src="Mont valérien.mp4" type="video/mp4"> 
+     Votre navigateur ne supporte pas la lecture de vidéos HTML5. 
+   </video> 
+   <tr> 
+ <img src="MONT VALÉRIEN-2.jpg" alt="MONT VALÉRIEN-2.jpg" width="310" height="230"> 
+    <tr> 
+ <a href="https://www.hauts-de-seine.fr/le-parc-du-mont-valerien-et-la-promenade-jacques-baumel" class="custom-button">Site officiel</a> 
+ <a href="https://www.google.com/maps/dir//Mont+Val%C3%A9rien,+92150+Suresnes/@48.8730554,2.213056,14z/" class="custom-button">S'y rendre</a> 
+ </div> 
+ <div> 
+ <h2>D'autres endroits qui peuvent être notoire et qui sont connus à Paris 🦆</h2> 
+ <ul> 
+ <li><a href="#Concorde">La Concorde</a></li> 
+ <li><a href="#République">Place de la République</a></li> 
+ <li><a href="#Vendôme">La Colonne Vendôme</a></li> 
+ <li><a href="#Bastille">La Place de la Bastille</a></li> 
+ <li><a href="#Montparnasse">La Tour Montparnasse</a></li> 
+ <li><a href="#Montsouris">Le Parc Montsouris</a></li> 
+ <li><a href="#SaintJacques">La Tour saint-Jacques</a></li> 
+ <li><a href="#Catacombes">Les Catacombes de Paris</a></li> 
+ <li><a href="#Trocadéro">Les Jardins du Trocadéro</a></li> 
+ </ul> 
+  
+ <div class="article" id="Concorde"> 
+ <h3>La Concorde</h3> 
+ <img src="https://cdn.paris.fr/paris/2022/07/26/huge-07dd620f9bc3f9e4163935fb6fb160f1.jpg" alt="La Concorde" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.paris.fr/pages/la-concorde-une-place-aux-multiples-facettes-22106" class="custom-button">La Concorde</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=La+Concorde" class="custom-button">S'y rendre🏃‍♀️</a> 
+ </div> 
+  
+ <div class="article" id="République"> 
+ <h3>République</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Paris_-_2017-12-01_-_Place_de_la_R%C3%A9publique_-_5517.jpg" alt="République" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.parismarais.com/fr/decouvrez-le-marais/les-quartiers-du-marais/place-de-la-republique.html" class="custom-button">Place de la République 🇨🇵
+[Site informatif ] </a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=République" class="futuristic-button">S'y rendre</a> 
+  
+ </div> 
+ <div class="article" id="Vendôme"> 
+ <h3>Colonne Vendôme</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Paris_Colonne_Vend%C3%B4me_2012_1.jpg" alt="Colonne Vendôme" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://fr.wikipedia.org/wiki/Colonne_Vend%C3%B4me" class="custom-button">Wikipédia du monument</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Colonne+Vendôme" class="custom-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="Bastille"> 
+ <h3>La place de la Bastille</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Place_de_la_Bastille%2C_avril_2021.jpg" alt="La place de la Bastille" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://fr.wikipedia.org/wiki/Place_de_la_Bastille" class="futuristic-button">🏛️Wikipédia du monument 🏛️</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=La+place+de+la+Bastille" class="futuristic-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="Montparnasse"> 
+ <h3>La tour Montparnasse</h3> 
+ <img src="https://cdn.pixabay.com/photo/2019/08/07/14/29/montparnasse-tower-4390911_1280.jpg" alt="La tour Montparnasse" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.tourmontparnasse56.com/fr/" class="custom-button">Site officiel de la tour Montparnasse🕺</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=La+tour+Montparnasse" class="custom-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="Montsouris"> 
+ <h3>Parc Montsouris</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/P1110707_Paris_XIV_parc_de_Montsouris_rwk.JPG" alt="Parc Montsouris" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.paris.fr/lieux/parc-montsouris-1810" class="futuristic-button">Site 🏞️du Parc✨</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Parc+Montsouris" class="futuristic-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="SaintJacques"> 
+ <h3>La Tour Saint-Jacques</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Tour_Saint-Jacques_BLS.jpg" alt="La tour Saint-Jacques" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://fr.wikipedia.org/wiki/Tour_Saint-Jacques" class="custom-button">Wikipédia du monument</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=La+tour+Saint-Jacques" class="custom-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="Catacombes"> 
+ <h3>Les catacombes de Paris</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Paris_Catacombs_Entrance.jpg" alt="Les catacombes de Paris" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.catacombes.paris.fr/" class="futuristic-button">Site officiel des catacombes de Paris💀</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Les+catacombes+de+Paris" class="futuristic-button">S'y rendre</a> 
+ </div> 
+  
+ <div class="article" id="Trocadéro"> 
+ <h3>Les jardins du Trocadéro</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Trocadero_2016_%284%29.jpg" alt="Les jardins du Trocadéro" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.paris.fr/lieux/jardins-du-trocadero-1789" class="custom-button">Site du jardin des Trocadéro</a> 
+ <a href="https://www.google.com/maps/dir/?api=1&destination=Les+jardins+du+Trocadéro" class="custom-button">S'y rendre</a> 
+ </div> 
+ <div class="article" id="Parc des buttes Chaumont"> 
+   <h3>Parc des Buttes Chaumont</h3> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Parc_des_Buttes_Chaumont_Sep_2012.jpg" alt="Le parc" class="article-image" width="310" height="230"> 
+   <a href="https://www.paris.fr/lieux/parc-des-buttes-chaumont-1757" class="futuristic-button">Site officiel</a> 
+   <a href="https://www.google.com/maps?q=parc+des+buttes+Chaumont" class="futuristic-button">S'y rendre</a> 
+ </div> 
+ <div> 
+   <h5><em>Après accès plus sur l'eau 🌊</em></h5> 
+  
+   <div class="article" id="Aquaboulevard"> 
+     <h3>Aquaboulevard🌊</h3> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Aquaboulevard_int01.JPG" alt="Aqua" class="article-image" width="310" height="230"> 
+     <a href="https://aquaboulevard.fr/" class="custom-button">Site officiel</a> 
+     <a href="https://www.google.com/maps?q=Aquaboulevard" class="custom-button">S'y rendre</a> 
+   </div> 
+  
+   <div class="article" id="La base de loisirs de Cergy"> 
+     <h3>La base de loisirs de Cergy🌊</h3> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Base_de_plein-air_et_de_loisirs_de_l_Cergy-Pontoise_P1030542.JPG" alt="Aqua" class="article-image" width="310" height="230"> 
+     <a href="https://cergy-pontoise.iledeloisirs.fr/activite/plage" class="futuristic-button">Site officiel</a> 
+     <a href="https://www.google.com/maps/dir//Ile+de+Loisirs+de+Cergy-Pontoise,+1+Rue+des+%C3%89tangs,+95000+Neuville-sur-Oise/@49.029122,2.0444782,16z" class="futuristic-button">S'y rendre</a> 
+   </div> 
+ </div> 
+ <div class="article" id="La base de loisirs de Torcy"> 
+   <h3>🌊La base de loisirs de Torcy🌊</h3> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Base_de_loisirs_de_Vaires-Torcy.jpg" alt="Aqua" class="article-image" width="310" height="230"> 
+   <a href="https://vaires-torcy.iledeloisirs.fr" class="custom-button">Site officiel</a> 
+   <a href="https://www.google.com/maps/dir//Ile+de+Loisirs+de+Vaires-Torcy" class="custom-button">S'y rendre</a> 
+ </div> 
+ </div> 
+ </ul> 
+ <div class="main"> 
+ <div class="sidebar"> 
+     <tr> 
+ <h2>Musée🖼️</h2> 
+ <ul> 
+ <h4>Le musée Du Louvre </h4> 
+ <a href="https://www.louvre.fr/" class="futuristic-button">🐑Le site du Musée ✨</a> 
+ <a href="https://www.google.com/maps/dir//Musée+du+Louvres" class="futuristic-button">S'y rendre</a> 
+  
+  <h4>L'aquarium de Paris</h4> 
+ <a href="https://www.aquariumdeparis.com/" class="futuristic-button">Gloup🐠Gloup</a> 
+ <a " class="futuristic-button">S'y rendre🏃‍♀️</a> 
+ <tr>
+  
+ <h4>Musée de l'histoire de l'immigration</h4> 
+ <a href=https://www.histoire-immigration.fr/programmation/expositions/l-exposition-permanente class="futuristic-button">Site Web</a> 
+ <a class="futuristic-button">S'y rendre</a> 
+ <tr> 
+  
+ <h3>La Bibliothèque Nationale de France</h3> 
+ <a href="https://www.bnf.fr/fr/francois-mitterrand" class="futuristic-button">Site📖de la BNF📜</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Biblioth%C3%A8que+nationale+de+France" class="futuristic-button">S'y rendre</a> 
+ <tr> 
+  
+ <h3>Le centre Pompidou</h3> 
+ <a href="https://www.centrepompidou.fr/" class="futuristic-button">Site web🖼️</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Centre+Pompidou" class="futuristic-button">Y'Allez</a> 
+ <tr> 
+ <h3>la Fondation Louis Vuitton</h3> 
+ <a href="https://www.fondationlouisvuitton.fr/" class="futuristic-button">site Internet</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Fondation+Louis+Vuitton" class="futuristic-button">Y'Allez</a> 
+  
+ <h3>l'Opéra Garnier</h3> 
+ <a href="https://www.operadeparis.fr/" class="futuristic-button">site👀Internet</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Op%C3%A9ra+Garnier" class="futuristic-button">S'y Rendre</a> 
+ <h3>Musée Yves Saint-Laurent</h3> 
+ <a href="https://museeyslparis.com/" class="futuristic-button">site✨Internet</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+Yves+Saint+Laurent" class="futuristic-button">S'y Rendre</a> 
+ <tr> 
+ <h3>Cité des sciences et de l'industrie</h3> 
+ <a href="https://www.cite-sciences.fr/fr/accueil/" class="futuristic-button">site👀Internet</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Cit%C3%A9+des+sciences+et+de+l%27industrie"class="futuristic-button">S'y Rendre</a> 
+  
+  
+ <h3>Maison du Japon à paris</h3> 
+ <a href="maison du Japon à Paris" 
+<a href="https://www.mcjp.fr/" class="futuristic-button">site⛩️Internet</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Maison+de+la+culture+du+Japon+%C3%A0+Paris"class="futuristic-button">S'y Rendre</a> 
+  
+ <h2>PARC D'ATTRACTION🎢</h2> 
+ <h3>Disneyland Paris</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/en/8/88/Sleeping_Beauty_Castle%2C_Disneyland%2C_Paris.jpg" alt="Le parc🐭" class="article-image" 
+ width="310" height="230"> 
+ <a href="https://www.disneylandparis.com/fr-fr/" class="futuristic-button">Chez Mickey🐭</a> 
+ </div> 
+ <h3>Parc Astérix</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Goudurix.JPG" alt="Le parc Astérix" class="article-image" width="537.691px" height="457.2px"> 
+ <a href="https://www.parcasterix.fr/" class="custom-button">🎡</a> 
+ <a href="https://www.google.com/maps/search/?api=1&query=Parc+Ast%C3%A9rix"class="custom-button">S'y rendre</a> 
+ </div> 
+  
+ <div> 
+     <h3>Mémorial de la guerre de Tunisie d'Algérie et du Maroc</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/M%C3%A9morial_de_la_guerre_d%27Alg%C3%A9rie_et_des_combats_du_Maroc_et_de_la_Tunisie_-_Paris_7_-_Septembre_2022.jpg" alt="mémorial" 
+ width="310" height="230"> 
+ <a href="https://www.onac-vg.fr/hauts-lieux-memoire-necropoles/memorial-de-la-guerre-algerie-et-des-combats-du-maroc-et-de-la" class="futuristic-button">Site Web</a> 
+ </div> 
+ <div> 
+ <h3>Mémorial de la shoah</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/M%C3%A9morial_de_la_Shoah_%40_Paris_%2832732899245%29.jpg" alt="mémorial de la shoah" 
+ width="310" height="230"> 
+ <a href="https://www.memorialdelashoah.org/" class="custom-button">Site Web</a> 
+ </div> 
+ <div> 
+ <h3>Chapelle expiatoire</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chapelle_Expiatoire_%40_Square_Louis_XVI_%40_Paris_%2834359376165%29.jpg" alt="Chapelle expiatoire" 
+ width="310" height="230"> 
+ <a href="https://www.chapelle-expiatoire-paris.fr/" class="futuristic-button">Site Web</a> 
+ </div> 
+ <div> 
+ <h3>Ballon Generali🎈</h3> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ballon_Generali_taking_off.jpg" alt="Chapelle expiatoire" 
+ width="310" height="230"> 
+ <a href="https://ballondeparis.com/" class="custom-button">S'envoler🪿</a> 
+
+ <h3>Palais royal + Les jardins du palais royal</h3><em><a href="https://www.domaine-palais-royal.fr/"class="futuristic-button">Site Web</a></em>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Paris_Palais_Royal_Colonnes_de_Buren_3.jpg" alt="Palais Royale img" class="article-image"
+ width="310" height="230"> 
+<tr>
+<h3><em>Les Galeries Dior</em></h3>
+<a href ="https://www.galeriedior.com/" class="custom-button">les🖼️Galeries Dior🕺</a>
+<tr>
+<tr>
+
+
+
+
+
+ </div> 
+ <h3>🔥Les événements effemère👀</h3> 
+ <div> 
+
+
+
+
+ <h4>Japon Expo</h4> 
+ <em><a href="https://www.japan-expo-paris.com/"class="custom-button" >Site Web</a></em>
+
+ <h4>Les Journées portes ouvertes européennes</h4><em><a href="https://journeesdupatrimoine.culture.gouv.fr/" class="futuristic-button">Les journées Européennes🇪🇺 du patrimoine 🖼️</a></em>
+
+ <h4> Coupe du monde de rugby en 2023</h4><em><a href="https://www.rugbyworldcup.com/2023/"class="custom-button" >Coupe du Monde de rugby Qui ce passeras en France</a></em> 
+
+ <h4>Jeux olympiques de Paris en 2024</h4><em><a href="https://www.paris2024.org/fr/"class="futuristic-button" >🏃‍♀️Jeux⛹️Olympiques🤸de🤺Paris 2024</a></em>
+
+ <h4>Les Concerts Qu'ils y a en région Parisienne 🇨🇵</h4><em><a href="https://www.offi.fr/concerts/programme.html?npage=2&criterion_SRubrique=pop-rock"class="custom-button">Du style un peu Pop Rock</a></em>
+<tr>
+<tr>
+<tr>
+<a href="https://www.offi.fr/concerts/programme.html?criterion_SRubrique=groove"class="futuristic-button">Et ça c'est plus du style "Musique urbaine " Rap et j'en passe...</a></em>
+
+<p><em>(après il y a différentes salles de concert à Paris tu peux regarder le Zenith de Paris , Accor Arena, La Cigale,Stade de France, La défense Arena...)</p></em>
+<p> Après c'est à voir avec tes goûts musicaux.🕺</p>
+
+
+ <H4>Le Théâtre du Châtelet</H4><em><a href="https://www.chatelet.com/"class="custom-button" >Le célèbre théâtre du Châtelet</a></em>
+
+ <h4>Le manoir de Paris</h4><em><a href="https://www.lemanoirdeparis.fr/"class="futuristic-button" >Le Manoir de Paris 🎃👻</a></em> 
+ <h4>Les Champs-Elysées lors de la fête nationale</h4><em><a href="https://www.gouvernement.fr/le-14-juillet-jour-de-fete-nationale-depuis-1880"class="custom-button" >🇨🇵Notre fête nationale 🇨🇵</a></em>
+ <h4>Le palais de Tokyo à Paris</h4> 
+ <em><a href="https://palaisdetokyo.com/"class="futuristic-button">Site Web</a></em> 
+
+ <h3><strong><a href="https://www.paris.fr/quefaire"class="custom-button" >Site de la ville de Paris " Que faire à paris "</strong></h3></a> 
+ </div> 
+ <div> 
+
+ <p>Il reste beaucoup de monuments à énumérer mais l'intérêt serait peu élevé et meme ce serait rébarbatif 🙂 à la long.</p>
+ 
+ <h3>Le reste des châteaux 🏰 présents en Île-de-France et des monuments en région parisienne</h3> 
+ <p>Il y a en région parisienne toujours celui de Rambouillet, de Vincennes, de Versailles,Fontainebleau... et au pire il a <a href="https://www.geocaching.com/play" >Géocahing</a></p><p>🙃</p>
+
+ <h2>Liste des Musées d'Île-de-France</h2> 
+ <a href="https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_France#%C3%8Ele-de-France"class="futuristic-button"><strong>🖼️ Wikipédia des Musées D'ÎDF</strong></a> 
+ <p><span>Région Île-de-France donc dans les départements</span>
+<tr>
+<span><em>(L'Essonne,les Hauts-de-Seine,Paris,La Seine-et-Marne,Seine-Saint-Denis,Val-de-Marne,Val-d'Oise,Yvelines.)</em></span></p> 
+ </div> 
+ <div> 
+   <h2>En plus si tu veux découvrir🤷</h2> 
+<tr>
+  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@traveller___bucketlist/video/7149146946937064710" data-video-id="7149146946937064710" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@traveller___bucketlist" href="https://www.tiktok.com/@traveller___bucketlist?refer=embed">@traveller___bucketlist</a> There&#39;s just too much to see in Paris 🇫🇷🗼 <a title="travel" target="_blank" href="https://www.tiktok.com/tag/travel?refer=embed">#travel</a> <a title="paris" target="_blank" href="https://www.tiktok.com/tag/paris?refer=embed">#paris</a> <a title="france" target="_blank" href="https://www.tiktok.com/tag/france?refer=embed">#france</a> <a title="toureiffel" target="_blank" href="https://www.tiktok.com/tag/toureiffel?refer=embed">#toureiffel</a> <a title="visitfrance" target="_blank" href="https://www.tiktok.com/tag/visitfrance?refer=embed">#visitfrance</a> <a target="_blank" title="♬ Hits 2021 - Mashup - Trinix Remix" href="https://www.tiktok.com/music/Hits-2021-Mashup-7053342181267867650?refer=embed">♬ Hits 2021 - Mashup - Trinix Remix</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+ </p> 
+ <p> 
+ </div> 
+<tr>
+ <div> 
+ <p>Site TripAdvisor des différentes activités qui peuvent être réalisés sur Paris</p>
+    <iframe src="https://www.tripadvisor.fr/Attractions-g187147-Activities-Paris_Ile_de_France.html" width="100%" height="800px"></iframe>
+ </p> 
+ <p> 
+   <strong>Que faire à Paris☕</strong>
+ </p> 
+  <iframe src="https://www.hellotickets.fr/france/paris/que-faire-a-paris/sc-125-2047" width="75%" height="800px"></iframe>
+ 
+ <tr>
+     <tr>
+         <tr>
+             <tr>
+                 <tr>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/KkWYukW8l7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <p> 
+   <a href="https://www.monuments-nationaux.fr/" class="futuristic-button"">✨ Site Internet des monuments nationaux de France</a> 
+ </p> 
+ </div> 
+ <h3>Les Applications pour plus de choix de destination</h3> 
+ <p>#C'estPasLoinEnTrain</p> 
+ <p>Google Maps</p> 
+ <p>Atlas Obscura</p>
+ <tr> 
+   <a href="https://www.epmo-musees.fr/fr" class="futuristic-button">Le Musée d'Orsay et L'autre Musée de L'orangerie</a> 
+<tr>
+  <p><strong>Office du tourisme de la ville Paris</strong></p>
+  <tr>
+      <tr>
+ <tr>
+ <iframe src="https://parisjetaime.com/" width="75%" height="800px"></iframe>
+  
+ <h3><a href="http://monumentsdeparis.net/"class="futuristic-button">Voici une😊Autre PARTIE 👀</a></h3> 
+  
+         </div> 
+ </ul> 
+   <tr> 
+  <a href="http://monumentsdeparis.net"></a>
+ </div> 
+ </div> 
+ </div> 
+ </body> 
+ </html>
